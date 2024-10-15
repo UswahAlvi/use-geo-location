@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0
+}
+.on-hover {
+    transition: box-shadow 0.1s ease; 
+}
+
+.on-hover:hover {
+    box-shadow: 1px 1px 18px rgba(0, 0, 0, 0.3);
+}
